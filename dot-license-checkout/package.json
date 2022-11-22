@@ -22,7 +22,7 @@
     "classnames": "^2.2.5",
     "dot-prop-immutable": "^1.4.0",
     "history": "^4.7.2",
-    "karma": "^2.0.0",
+    "karma": "^6.4.1",
     "karma-mocha-reporter": "^2.2.5",
     "ladda": "^1.0.6",
     "lodash": "^4.17.5",
@@ -45,7 +45,7 @@
     "redux-saga": "^0.16.0"
   },
   "devDependencies": {
-    "nwb": "0.21.x",
+    "nwb": "0.25.x",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.2.0",
